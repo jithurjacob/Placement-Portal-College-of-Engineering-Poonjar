@@ -1,0 +1,1819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bra",
+				"branches_current"
+			],
+			[
+				"alum",
+				"alumnees"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"loa",
+				"loaddata"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"model",
+				"Model_admin"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"ma",
+				"maxlength"
+			],
+			[
+				"min",
+				"minlength"
+			],
+			[
+				"fa",
+				"faculty"
+			],
+			[
+				"stu",
+				"students"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fi",
+				"finished"
+			],
+			[
+				"equ",
+				"equalTo"
+			],
+			[
+				"ne",
+				"next_step"
+			],
+			[
+				"mode",
+				"model_alumni"
+			],
+			[
+				"e",
+				"errors"
+			],
+			[
+				"val",
+				"validator"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"adm",
+				"admin_url"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"src_",
+				"src_set"
+			],
+			[
+				"pr",
+				"Print"
+			],
+			[
+				"raw",
+				"raw_input	raw_input"
+			],
+			[
+				"src",
+				"src_set"
+			],
+			[
+				"tot",
+				"total_"
+			],
+			[
+				"a",
+				"alph_set"
+			],
+			[
+				"ap",
+				"alph"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"br",
+				"branch_details"
+			],
+			[
+				"col",
+				"college_details"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ac",
+				"academic_month"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"stude",
+				"student_details"
+			],
+			[
+				"dow",
+				"download_registerform"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"fail",
+				"failure"
+			],
+			[
+				"pri",
+				"print_hash"
+			],
+			[
+				"reg",
+				"registration_completed"
+			],
+			[
+				"fil",
+				"file2"
+			],
+			[
+				"suc",
+				"success2"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"bas",
+				"base_url"
+			],
+			[
+				"na",
+				"nationality"
+			],
+			[
+				"ge",
+				"gender"
+			],
+			[
+				"st",
+				"students_register"
+			],
+			[
+				"pic",
+				"pic_h"
+			],
+			[
+				"pre",
+				"previewing_pic"
+			],
+			[
+				"ima",
+				"imageIsLoaded_pic"
+			],
+			[
+				"form",
+				"form1"
+			],
+			[
+				"image_preview_",
+				"image_preview_pic"
+			],
+			[
+				"message_",
+				"message_sign"
+			],
+			[
+				"but",
+				"button1"
+			],
+			[
+				"bu",
+				"button2"
+			],
+			[
+				"cap",
+				"captcha"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"JS",
+				"json_encode"
+			],
+			[
+				"def",
+				"defined"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"exa",
+				"exam_students"
+			],
+			[
+				"add",
+				"add_student"
+			],
+			[
+				"yea",
+				"year"
+			],
+			[
+				"y",
+				"year"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"deg",
+				"degree_details"
+			],
+			[
+				"college",
+				"college_details"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"de",
+				"degid"
+			],
+			[
+				"degree_",
+				"degree_addbranch"
+			],
+			[
+				"college_",
+				"college_addbranch"
+			],
+			[
+				"exam_college",
+				"exam_colleges_details"
+			],
+			[
+				"get_b",
+				"get_branches"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"get_",
+				"get_colleges"
+			],
+			[
+				"exam_de",
+				"exam_degrees"
+			],
+			[
+				"student",
+				"student_data"
+			],
+			[
+				"year",
+				"Year"
+			],
+			[
+				"Mo",
+				"Month"
+			],
+			[
+				"Secu",
+				"securitycode"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"se",
+				"securitycode"
+			],
+			[
+				"su",
+				"sup	Tag"
+			],
+			[
+				"exam",
+				"exam_degree"
+			],
+			[
+				"load",
+				"load_degree"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"dat",
+				"date1"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"F",
+				"FALSE"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"laz",
+				"lazyload"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"hi",
+				"hiding"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"lo",
+				"load_data"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"ver",
+				"verified_placement_details"
+			],
+			[
+				"ret",
+				"ret	return"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"esl",
+				"else"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"ses",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"border-lef",
+				"border-top-left-radius"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"arr",
+				"arriers"
+			],
+			[
+				"cont",
+				"continue	Language Construct"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"el",
+				"else 	Language Construct"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"to",
+				"total_gpa"
+			],
+			[
+				"credit",
+				"total_credit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/CEPMS/application/controllers/Admin.php",
+			"settings":
+			{
+				"buffer_size": 4257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php  ?>\n<div class=\"row holder\">\n    <div class=\"col-md-12\">\n        <div class=\"home_steps  text-justify noborder\">\n\n            <br />\n            <h2>Current Departments</h2>\n            <br />\n            <div class=\"responsive-table\">\n                <table id=\"current_table\" class=\"table  table-condens table-hover table-bordere text-left verify_table responsive\">\n                    <thead>\n                        <th>Department Name</th>\n                        <th>Number of Students studying</th>\n                        <th>Number of Students passed</th>\n                        <th>Head of Department</th>\n                        <th>Action</th>\n                    </thead>\n                    <?php  foreach ($branches_current as $branch): ?>\n                        <tr id=\"<?php   echo $branch['b_id']; ?>\">\n\n                            <td class=\"middle-align\">\n                                <?php     echo $branch['b_name']; ?>\n                            </td>\n                            <td class=\"middle-align\">\n                                <?php     echo $branch['current_count']; ?>\n                            </td>\n                            <td class=\"middle-align\">\n                                <?php     echo $branch['previous_count']; ?>\n                            </td>\n                            <td class=\"middle-align\">\n                                <?php     echo $branch['f_name']; ?>\n                               \n                            </td>\n                            \n                            <td class=\"middle-align\">\n                                <div class=\"btn-group\">\n                                    <button type=\"button\" class=\"btn btn-default btn-sm dropdown-toggle\" data-toggle=\"dropdown\">\n                                        Action <span class=\"caret\"></span>\n                                    </button>\n                                    <ul class=\"dropdown-menu dropdown-default pull-right\" role=\"menu\">\n\n                                        <!-- EDITING LINK -->\n                                        <li>\n                                            <a href=\"#\" onclick=\"showAjaxModal('http://creativeitem.com/demo/ekattor/index.php?modal/popup/modal_edit_class/3');\">\n                                                <i class=\"entypo-pencil\"></i>\n                                                Edit\n                                                </a>\n                                            </li>\n                                            <li class=\"divider\"></li>\n\n                                            <!-- DELETION LINK -->\n                                            <li>\n                                                <a href=\"#\" onclick=\"confirm_modal('http://creativeitem.com/demo/ekattor/index.php?admin/classes/delete/3');\">\n                                                    <i class=\"entypo-trash\"></i>\n                                                    Delete\n                                                    </a>\n                                                </li>\n                                            </ul>\n                                        </div>\n\n                                    </td>\n\n                                </tr>\n                            <?php endforeach ?>\n                        </table>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <hr>\n        <div class=\"row holder\">\n            <div class=\"col-md-12\">\n                <div class=\"home_steps  text-justify noborder\">\n\n                    <br />\n                    <h2>Removed Departments</h2>\n                    <br />\n                    <div class=\"responsive-table\">\n                        <table id=\"branch_table\" class=\"table  table-condens table-hover table-bordere text-left verify_table responsive\">\n                            <thead>\n                                <th>Department Name</th>\n                                <th>Number of Students studying</th>\n                                <th>Number of Students passed</th>\n                                <th>Head of Department</th>\n\n                                <th>Add</th>\n                            </thead>\n                            <?php  foreach ($branches_previous as $branch): ?>\n                                <tr id=\"<?php   echo $branch['b_id']; ?>\">\n\n                                    <td class=\"middle-align\">\n                                        <?php     echo $branch['b_name']; ?>\n                                    </td>\n                                    <td class=\"middle-align\">\n                                        <?php     echo $branch['current_count']; ?>\n                                    </td>\n                                    <td class=\"middle-align\">\n                                        <?php     echo $branch['previous_count']; ?>\n                                    </td>\n                                    <td class=\"middle-align\">\n                                        <?php     echo $branch['f_name']; ?>\n                                        \n                                    </td>\n                                    <td class=\"middle-align\">\n                                    <a class=\"add_btn\" table=\"branches\" data=\"<?php echo $branch['b_id']; ?>\" ><i class=\"entypo-check\"></i> Add</a></td>\n\n\n                                </tr>\n                            <?php endforeach ?>\n                        </table>\n                    </div>\n                </div>\n            </div>\n        </div>\n\n\n <div class=\"modal fade\" id=\"modal_ajax\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                \n                <div class=\"modal-header\">\n                    <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n                    <h4 class=\"modal-title\">Ekattor School Management System Pro</h4>\n                </div>\n                \n                <div class=\"modal-body\" style=\"height:500px; overflow:auto;\">\n                \n                    \n                    \n                </div>\n                \n                <div class=\"modal-footer\">\n                    <button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\">Close</button>\n                </div>\n            </div>\n        </div>\n    </div>\n\n <!-- (Normal Modal)-->\n    <div class=\"modal fade\" id=\"modal-4\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\" style=\"margin-top:100px;\">\n                \n                <div class=\"modal-header\">\n                    <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n                    <h4 class=\"modal-title\" style=\"text-align:center;\">Are you sure to delete this information ?</h4>\n                </div>\n                \n                \n                <div class=\"modal-footer\" style=\"margin:0px; border-top:0px; text-align:center;\">\n                    <a href=\"#\" class=\"btn btn-danger\" id=\"delete_link\">delete</a>\n                    <button type=\"button\" class=\"btn btn-info\" data-dismiss=\"modal\">Cancel</button>\n                </div>\n            </div>\n        </div>\n    </div>      \n    \n\n    <script type=\"text/javascript\">\n    function showAjaxModal(url)\n    {\n        // SHOWING AJAX PRELOADER IMAGE\n        jQuery('#modal_ajax .modal-body').html('<div style=\"text-align:center;margin-top:200px;\"><img src=\"assets/images/preloader.gif\" /></div>');\n        \n        // LOADING THE AJAX MODAL\n        jQuery('#modal_ajax').modal('show', {backdrop: 'true'});\n        \n        // SHOW AJAX RESPONSE ON REQUEST SUCCESS\n        $.ajax({\n            url: url,\n            success: function(response)\n            {\n                jQuery('#modal_ajax .modal-body').html(response);\n            }\n        });\n    }\n    </script>\n\n      <script type=\"text/javascript\">\n    function confirm_modal(delete_url)\n    {\n        jQuery('#modal-4').modal('show', {backdrop: 'static'});\n        document.getElementById('delete_link').setAttribute('href' , delete_url);\n    }\n    </script>",
+			"file": "/C/wamp/www/CEPMS/application/views/admin/branch_management.php",
+			"file_size": 8345,
+			"file_write_time": 130791991550566343,
+			"settings":
+			{
+				"buffer_size": 8177,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/application/models/Model_branches.php",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/cep/placement/application/controllers/placement.php",
+			"settings":
+			{
+				"buffer_size": 64086,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/application/views/admin/user_management/verify/verify_alumni.php",
+			"settings":
+			{
+				"buffer_size": 2397,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/cep/placement/application/views/placement_admin_verify.php",
+			"settings":
+			{
+				"buffer_size": 7383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/application/views/admin_dash.php",
+			"settings":
+			{
+				"buffer_size": 1676,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/application/views/students_register_page.php",
+			"settings":
+			{
+				"buffer_size": 10691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/application/views/sidebar/admin_sidebar_menu.php",
+			"settings":
+			{
+				"buffer_size": 21837,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "dash\ntime line\nsearch\ncalendar\nuser management\nstudet\n	admit stud\n	student info\n	student mark sheet\n	student attend sheet\n	promote students\nteacher\nparent\nbranch\nsemester\nsubject\nattendance mgmnt\nmark mgnt\nplacement details\nexam\nnotice board\nmail box\nsettings\n	gen settings\n	sms sett\n	mail settings\n\nname\nemail\nmobno\ndob\n\nbrnch\nadmsn no\nregno\nyear_pass\nlateral\n\nusername\npwd\nrepwd\n\nrequired – Makes the element required.\nremote – Requests a resource to check the element for validity.\nminlength – Makes the element require a given minimum length.\nmaxlength – Makes the element require a given maxmimum length.\nrangelength – Makes the element require a given value range.\nmin – Makes the element require a given minimum.\nmax – Makes the element require a given maximum.\nrange – Makes the element require a given value range.\nemail – Makes the element require a valid email\nurl – Makes the element require a valid url\ndate – Makes the element require a date.\ndateISO – Makes the element require an ISO date.\nnumber – Makes the element require a decimal number.\ndigits – Makes the element require digits only.\ncreditcard – Makes the element require a credit card number.\nequalTo – Requires the element to be the same as another one",
+			"settings":
+			{
+				"buffer_size": 1228,
+				"line_ending": "Windows",
+				"name": "dash"
+			}
+		},
+		{
+			"file": "/C/wamp/www/neon/dashboard/main/main.html",
+			"settings":
+			{
+				"buffer_size": 69032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/assets/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 2054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/application/views/footer/admin_page_footer.php",
+			"settings":
+			{
+				"buffer_size": 5036,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/assets/js/jithu/admin/verify.js",
+			"settings":
+			{
+				"buffer_size": 2888,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/assets/js/neon-custom.js",
+			"settings":
+			{
+				"buffer_size": 44632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/application/views/alumni_register_page.php",
+			"settings":
+			{
+				"buffer_size": 9541,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/assets/js/jithu/admin/branch.js",
+			"settings":
+			{
+				"buffer_size": 2864,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/CEPMS/application/models/Model_verify.php",
+			"settings":
+			{
+				"buffer_size": 2054,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ci",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/CEPMS/application",
+		"/C/wamp/www/CEPMS/application/controllers",
+		"/C/wamp/www/CEPMS/application/models",
+		"/C/wamp/www/CEPMS/application/views",
+		"/C/wamp/www/CEPMS/application/views/footer",
+		"/C/wamp/www/CEPMS/application/views/header",
+		"/C/wamp/www/CEPMS/application/views/sidebar"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/CEPMS/application/controllers/Register.php",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.730/functions.php",
+		"/C/wamp/www/CEPMS/application/views/admin/user_management/verify/verify_student.php",
+		"/C/wamp/www/CEPMS/assets/js/neon-register-students.js",
+		"/C/wamp/www/CEPMS/application/controllers/login.php",
+		"/C/wamp/www/CEPMS/application/views/json_status.php",
+		"/C/wamp/www/CEPMS/application/views/login_invalid.php",
+		"/C/wamp/www/CEPMS/application/views/login_valid.php",
+		"/C/wamp/www/neon/extra/login/login.html",
+		"/C/wamp/www/CEPMS/assets/js/neon-register-alumni.js",
+		"/C/wamp/www/CEPMS/application/models/Model_students.php",
+		"/C/wamp/www/CEPMS/application/models/Model_alumni.php",
+		"/C/wamp/www/CEPMS/application/models/Model_faculty.php",
+		"/C/wamp/www/CEPMS/application/views/footer/admin_page_footer.php",
+		"/C/wamp/www/CEPMS/application/views/index_page.php",
+		"/C/wamp/www/CEPMS/assets/css/custom.css",
+		"/C/wamp/www/CEPMS/application/views/footer/index_page_footer.php",
+		"/C/wamp/www/CEPMS/application/models/Model_verify.php",
+		"/C/wamp/www/CEPMS/application/views/admin/profile.php",
+		"/C/wamp/www/CEPMS/application/views/sidebar/admin_sidebar_menu.php",
+		"/C/wamp/www/CEPMS/application/models/Model_admin.php",
+		"/C/wamp/www/cep/placement/application/views/placement_students_marks.php",
+		"/C/wamp/www/CEPMS/assets/js/jquery.validate.min.js",
+		"/C/wamp/www/CEPMS/assets/js/joinable.js",
+		"/C/wamp/www/CEPMS/application/views/header/admin_page_header .php",
+		"/C/wamp/www/CEPMS/application/views/under_construction.php",
+		"/C/wamp/www/CEPMS/application/views/alumni_register_page.php",
+		"/C/wamp/www/CEPMS/assets/css/neon-theme.css",
+		"/C/wamp/www/CEPMS/assets/css/neon-core.css",
+		"/C/wamp/www/CEPMS/application/views/admin_dash.php",
+		"/C/wamp/www/CEPMS/application/views/check_email_username.php",
+		"/C/wamp/www/CEPMS/application/views/students_register_page.php",
+		"/C/wamp/www/CEPMS/assets/js/neon-login.js",
+		"/C/wamp/www/cep/placement/application/views/placement_students_register.php",
+		"/C/wamp/www/CEPMS/application/views/student_register_page.php",
+		"/C/wamp/www/CEPMS/application/models/Model_semesters.php",
+		"/C/wamp/www/CEPMS/application/models/Model_branches.php",
+		"/C/wamp/www/CEPMS/application/controllers/Student.php",
+		"/C/wamp/www/CEPMS/application/controllers/Admin.php",
+		"/C/wamp/www/CEPMS/application/controllers/Index.php",
+		"/C/wamp/www/neon/extra/register/register.html",
+		"/C/wamp/www/CEPMS/assets/js/neon-demo.js",
+		"/C/wamp/www/CEPMS/application/views/header/index_page_header.php",
+		"/C/wamp/www/CEPMS/application/controllers/Index_Control.php",
+		"/C/wamp/www/CEPMS/application/views/errors/html/error_404.php",
+		"/C/wamp/www/CEPMS/application/controllers/Faculty.php",
+		"/C/wamp/www/neon/assets/js/neon-calendar-2.js",
+		"/C/wamp/www/neon/extra/calendar-2/calendar-2.html",
+		"/C/wamp/www/neon/assets/js/neon-custom.js",
+		"/C/wamp/www/neon/assets/js/neon-demo.js",
+		"/C/wamp/www/CEPMS/application/views/admin_home.php",
+		"/C/wamp/www/CEPMS/application/config/routes.php",
+		"/C/wamp/www/CEPMS/application/controllers/admin.php",
+		"/C/wamp/www/CEPMS/application/views/sidebar/sidebar_menu.php",
+		"/C/wamp/www/cep/placement/application/models/placement_admin.php",
+		"/C/wamp/www/CEPMS/application/config/config.php",
+		"/C/wamp/www/CEPMS/application/config/autoload.php",
+		"/C/wamp/www/CEPMS/application/config/database.php",
+		"/C/wamp/www/CEPMS/application/models/Model_marks.php",
+		"/C/wamp/www/CEPMS/application/models/Model_news.php",
+		"/C/wamp/www/CEPMS/assets/js/neon-skins.js",
+		"/C/wamp/www/CEPMS/assets/js/neon-api.js",
+		"/C/wamp/www/CEPMS/assets/js/neon-custom.js",
+		"/C/wamp/www/cep/placement/application/views/jquery.form.js",
+		"/C/wamp/www/CEPMS/.htaccess",
+		"/C/wamp/www/CEPMS/application/views/errors/html/error_php.php",
+		"/C/wamp/www/CEPMS/application/views/errors/cli/error_404.php",
+		"/C/wamp/www/CEPMS/application/views/login.html",
+		"/Z/pro support/techniqs.txt",
+		"/C/wamp/www/Xera/idm grab/demo/ekattor/assets/js/neon-login.js",
+		"/C/wamp/www/neon/demo_neontheme_default_4.html",
+		"/C/wamp/www/CEPMS/application/controllers/Welcome.php",
+		"/C/wamp/www/CEPMS/index.php",
+		"/C/wamp/www/neon/ui/alerts/alerts.html",
+		"/C/wamp/www/Xera/idm neon grab/ui/modals/modals.html",
+		"/C/wamp/www/Xera/idm grab/creativeitem_default.html",
+		"/C/wamp/www/Xera/idm grab/demo/ekattor/assets/css/neon-forms.css",
+		"/C/wamp/www/Xera/idm grab/demo/ekattor/assets/js/neon-demo.js",
+		"/C/wamp/www/Xera/idm grab/demo/ekattor/assets/js/neon-forgotpassword.js",
+		"/C/wamp/www/Xera/idm grab/demo/ekattor/assets/js/jquery.validate.min.js",
+		"/C/wamp/www/Xera/idm grab/demo/ekattor/assets/js/joinable.js",
+		"/C/wamp/www/Xera/idm grab/demo/ekattor/assets/js/neon-api.js",
+		"/Z/Kitchen/xossip downloader/download - Preserve Order_bees.py",
+		"/Z/Kitchen/xossip downloader/files_bees.py",
+		"/Z/Kitchen/xossip downloader/files.py",
+		"/Z/Kitchen/xossip downloader/idmdownload.py",
+		"/Z/Kitchen/xossip downloader/download - Copy.py",
+		"/Z/Kitchen/xossip downloader/download - Preserve Order.py",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.800/ONLINE_SQL.sql",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/Android Apps/picasso list tutorial/java/com/example/mypicassolist/app/MainActivity.java",
+		"/C/subtitle-downloader.py",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.053/Cache.java",
+		"/E/Android Apps/Xossiper/app/src/main/AndroidManifest.xml",
+		"/Z/Kitchen/xossip downloader/idm download.py",
+		"/Z/Kitchen/xossip downloader/admin.py",
+		"/C/Users/Jithu R Jacob/Documents/GitHub/HackerRank-Python/keyword trans cipher.py",
+		"/Z/Kitchen/xossip downloader/filter.py",
+		"/C/Program Files (x86)/Sublime Text 3/sdf.c",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jithu R Jacob/Documents/GitHub/HackerRank-Python/prng.java",
+		"/Z/Kitchen/xossip downloader/files/desi girls t=1060391  pg=654.txt",
+		"/Z/Kitchen/xossip downloader/files/kavitha t=395377  pg=680.txt",
+		"/C/Users/Jithu R Jacob/Documents/GitHub/HackerRank-Python/arithmetic_operators.py",
+		"/Z/Kitchen/xossip downloader/inp.txt",
+		"/Z/Kitchen/xossip downloader/outp.txt",
+		"/F/fb_hack.txt",
+		"/Z/Kitchen/xossip downloader/download.py",
+		"/Z/Kitchen/xossip downloader/files/t=1345499  pg=100.txt",
+		"/Z/Kitchen/xossip downloader/files/t=1345499  pg=100_2.txt",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.148/AndroidKeyInjectorActivity.java",
+		"/C/Users/Jithu R Jacob/Documents/hacker rank/lonely integer.py",
+		"/C/Users/Jithu R Jacob/Documents/hacker rank/examples/list.py",
+		"/C/Users/Jithu R Jacob/Documents/hacker rank/examples/tuple.py",
+		"/C/Users/Jithu R Jacob/Documents/hacker rank/examples/set.py",
+		"/C/Users/Jithu R Jacob/Documents/proj description.txt",
+		"/C/Users/Jithu R Jacob/Documents/hacker rank/xml1.py",
+		"/C/Users/Jithu R Jacob/Documents/hacker rank/angry prof.py",
+		"/C/Users/Jithu R Jacob/Documents/hacker rank/cavity.py",
+		"/C/Users/Jithu R Jacob/AppData/Local/Temp/Rar$DIa0.071/DownloadVideosThread.java",
+		"/C/Users/Jithu R Jacob/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/F/test/src/com/example/test/MainActivity.java",
+		"/F/test/src/com/example/test/SplashActivity.java",
+		"/F/vb/Form1.frm",
+		"/C/wamp/www/form3/forms/imupload.php",
+		"/C/wamp/www/BACKUPS/socialnetworkcode/create_like_button.php",
+		"/C/wamp/www/BACKUPS/socialnetworkcode/account_settings.php",
+		"/C/wamp/www/BACKUPS/socialnetworkcode/js/main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cusat\\application\\views",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\wamp\\www\\cusat",
+			"C:\\wamp\\www\\cusat\\application\\views",
+			"C:\\wamp\\www\\cusat\\application",
+			"C:\\wamp\\www\\cusat",
+			"C:\\wamp\\www\\melby",
+			"C:\\wamp\\www\\main project",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement\\application\\models",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\Users\\Jithu R Jacob\\Downloads\\Completed Torrents\\Edge of Tomorrow (2014)\\js",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement\\application\\models",
+			"C:\\wamp\\www\\cep\\placement\\application",
+			"C:\\wamp\\www\\cep\\placement\\application\\views",
+			"C:\\wamp\\www\\cep\\placement\\js\\under_construction\\index_files",
+			"C:\\wamp\\www\\under construction",
+			"C:\\wamp\\www\\cep\\placement",
+			"C:\\wamp\\www\\cep\\placement\\system",
+			"C:\\wamp\\www\\cep\\placement\\application\\models",
+			"C:\\wamp\\www\\cep\\placement",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"b_id",
+			"alumni",
+			"ajax",
+			">\n",
+			"error",
+			"company",
+			");\n",
+			"mm",
+			"date",
+			"valida",
+			"mask",
+			"date",
+			"block",
+			"branch",
+			"email",
+			"valid_regno",
+			"register",
+			"selectb",
+			"reg",
+			"calen",
+			"logou",
+			"error",
+			"admin",
+			"login",
+			"csrf",
+			"width",
+			"logo ",
+			"logo",
+			"../../",
+			"modal-6",
+			"loader",
+			"src_set",
+			"IMG_1565.jpg ",
+			"IMG_1472.jpg",
+			"http://pzy.be/i/13/IMG_1472.jpg",
+			"IMG_1469.jpg",
+			"http://pzy.be/t/10/IMG_1469.jpg",
+			"http://pzy.be/t/2/coupleadv.jpg",
+			"1469",
+			"downloadyoutubevideo",
+			"expl",
+			"Handler",
+			"sendEmptyMessage",
+			"admin(",
+			"getVanishLine",
+			"RetrieveToken(",
+			"access",
+			"oauth_nonce",
+			"values",
+			"nonce",
+			"Sign(",
+			"state",
+			"GetStoredState(",
+			"GetAccessTokenURL(",
+			"access_token",
+			"web",
+			"regi",
+			"previewing_pic",
+			"generateToken(",
+			"generateToken()",
+			"pause",
+			"echo",
+			"join",
+			"secur",
+			"settings",
+			"func",
+			"placement",
+			"college",
+			"passw",
+			"compa",
+			"pas",
+			"update_pas",
+			"semester",
+			"captcha",
+			"pic",
+			"caste",
+			"captch",
+			"button2",
+			"previewing",
+			"noim",
+			",\"dis",
+			"month",
+			"100",
+			"id=\"",
+			"json",
+			"studen",
+			"$data",
+			"add",
+			"session",
+			"sess",
+			"load_",
+			"college",
+			"company",
+			"placement",
+			"company()",
+			"compa",
+			"resetpwd",
+			"reset",
+			"company",
+			"placement",
+			"reset",
+			"userna",
+			"recover",
+			"send_mail",
+			"mail",
+			"company",
+			"placement",
+			"forgot",
+			"logout",
+			"degree",
+			"add",
+			"placement",
+			"company",
+			"check_isvalidated()",
+			"check_isvalidated(){",
+			"check_isvalidated",
+			"admin(",
+			"company",
+			"placement",
+			"login",
+			"home",
+			"[name=",
+			"name=",
+			"how",
+			"step",
+			"ste",
+			"expired",
+			"branch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"branch",
+			"student",
+			"alumni",
+			"semester",
+			"username",
+			"faculty",
+			"<?php echo base_url();?>",
+			"exam",
+			"admin",
+			"sign",
+			",\"en",
+			"en",
+			"name",
+			"colleges",
+			"college",
+			"exam",
+			"colleges",
+			"exam",
+			"college",
+			"exam",
+			"branch",
+			"exam",
+			"colleges",
+			"college",
+			"exam",
+			"exam_login_sidebar",
+			"exam",
+			"college",
+			"cusat",
+			"cgpa",
+			"$this->find_arr",
+			"$arriers=find_arriers($temp_);",
+			"onkeyup=\"calculate();\" onchange=\"calculate();\"",
+			"onkeyup=\"calculate_edit();\" onchange=\"calculate_edit();\"",
+			"onkeyup=\"calculate_edit();\"",
+			"onkeyup=\"calculate();\"",
+			"keyup=\"calculate();\"",
+			"valid",
+			"placements_",
+			"placements",
+			" <?php $this->view('placement_news',$news_data); ?>",
+			"placement_news",
+			"",
+			"resume",
+			"academic",
+			"personal",
+			"logo_uc",
+			"arrier",
+			"arrier_slider",
+			"company",
+			"\"",
+			"edit_sub",
+			"edit",
+			"edit_sub",
+			"editmarks",
+			"edit_sub",
+			"check_edit",
+			"calculate_edit",
+			"span_edit",
+			"edit_sub",
+			"none\"",
+			"block\"",
+			"none\"",
+			"edit_sub",
+			"$edit_sub",
+			"edit_sub",
+			"$edit_",
+			"$success==\"",
+			"none1",
+			"less_than_or_equal_to",
+			"'",
+			"_status')",
+			"_status=",
+			"$sub1=$this->input->post('sub1');\n		$sub2=$this->input->post('sub2');\n		$sub3=$this->input->post('sub3');\n		$sub4=$this->input->post('sub4');\n		$sub5=$this->input->post('sub5');\n		$sub6=$this->input->post('sub6');\n		$sub7=$this->input->post('sub7');\n		$sub8=$this->input->post('sub8');\n		$sub9=$this->input->post('sub9');\n		$sub10=$this->input->post('sub10');\n		$sub11=$this->input->post('sub11');",
+			"update",
+			"\n		$this->load->library('form_validation', array(), 'register_form');\n\n		$this->register_form->set_rules('name', 'Name', 'trim|required|alpha_space|xss_clean');\n		$this->register_form->set_rules('username', 'Username', 'trim|alpha_numeric|min_length[5]|required|xss_clean');\n		$this->register_form->set_rules('email', 'Email', 'trim|required|valid_email|xss_clean');\n		$this->register_form->set_rules('password', 'Password', 'trim|required|min_length[8]|matches[r_password]|xss_clean');\n		$this->register_form->set_rules('r_password', 'RetypePassword', 'trim|required|min_length[8]|xss_clean');\n		$this->register_form->set_rules('admnno', 'Admission Number', 'trim|required|is_natural_no_zero|is_unique[students.admnno]|xss_clean');\n		$this->register_form->set_rules('regno', 'Registration Number', 'trim|required|is_natural_no_zero|is_unique[students.regno]|xss_clean');\n		$this->register_form->set_rules('year_pass', 'Year of Passing', 'trim|required|is_natural_no_zero|greater_than[2000]|xss_clean');\n		$this->register_form->set_rules('username', 'Username', 'is_unique[students.username]|is_unique[company.username]|is_unique[admin.username]', 'Username already exists');\n		$this->register_form->set_rules('email', 'Email', 'is_unique[students.email]', 'Email already exists');\n		$this->register_form->set_rules('admnno', 'Admission Number', 'is_unique[students.admnno]', ' %s already registerd if this was not you please contact administrator immediately');\n		$this->register_form->set_rules('regno', 'Registration Number', 'is_unique[students.admnno]', ' %s already registerd if this was not you please contact administrator immediately');\n\n		if (!$this->register_form->run()) {\n\n			// $this->load->view('placement_students_register', $data);\n\n			$data['register_form_error_msg'] = validation_errors();\n			$this->students(\"register\", $data);\n		} else {\n\n			$this->load->model('placement_students');\n\n			if ($this->placement_students->register()) {\n				$this->register_form->clear_field_data();\n				$data['register_form_success_msg'] = \"Registerd successfully wait for confirmation mail to login\";\n				$this->students(\"register\", $data);\n			} else {\n				$data['register_form_error_msg'] = \"Registration failed report this immediately to admin\";\n				$this->students(\"register\", $data);\n			}\n		}",
+			"<di v   class = \"alert   alert-wa r n i n g   a l e r t - d i s m i s s a b l e \" >\n    < b u t t o n   t y p e = \" b u t t o n \"   c l a s s = \" c l o s e \"   d a t a - d i s m i s s = \" a l e r t \"   a r i a - h i d d e n = \" t r u e \" > & t i m e s ; < / b u t t o n >\n    < s t r o n g > W a r n i n g ! < / s t r o n g >   B e t t e r   c h e c k   y o u r s e l f ,   y o u ' r e   n o t   l o o k i n g   t o o   g o o d .\n< / d i v >",
+			"",
+			"javascript:alert('only placement menu works');",
+			"\"dropdown-menu dropdown-menu-left\"",
+			"\"dropdown-menu-left\"",
+			"nav",
+			"DROP DATABASE IF EXISTS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/CEPMS/application/controllers/Admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2576,
+								2576
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1235.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/CEPMS/application/views/admin/branch_management.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2447,
+								2447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 488.0,
+						"translation.y": 642.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/CEPMS/application/models/Model_branches.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/cep/placement/application/controllers/placement.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4648,
+								4686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3484.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/wamp/www/CEPMS/application/views/admin/user_management/verify/verify_alumni.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 117.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp/www/cep/placement/application/views/placement_admin_verify.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6828,
+								6828
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2565.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp/www/CEPMS/application/views/admin_dash.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp/www/CEPMS/application/views/students_register_page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6663,
+								6663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "/C/wamp/www/CEPMS/application/views/sidebar/admin_sidebar_menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6838,
+								6838
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 61237.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"auto_name": "dash",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 499.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/wamp/www/neon/dashboard/main/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15092,
+								15100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3799.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/wamp/www/CEPMS/assets/css/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2052,
+								2052
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/wamp/www/CEPMS/application/views/footer/admin_page_footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4874,
+								4874
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2223.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/wamp/www/CEPMS/assets/js/jithu/admin/verify.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2401,
+								2401
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/wamp/www/CEPMS/assets/js/neon-custom.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21470,
+								21470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14599.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/wamp/www/CEPMS/application/views/alumni_register_page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3231,
+								3231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 16,
+					"file": "/C/wamp/www/CEPMS/assets/js/jithu/admin/branch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1801,
+								1801
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12635.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/wamp/www/CEPMS/application/models/Model_verify.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								981,
+								950
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.850784737221,
+			0.886781857452,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.phpunit":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "placement.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
